@@ -7,7 +7,7 @@ Esses exercícios estão todos disponíveis no [beecrowd](https://judge.beecrowd
 ![completo badge](https://img.shields.io/badge/status-completo-darkgreen) ![linguagem badge](https://img.shields.io/badge/linguagem%20usada-Python-orange)
 # Professor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/74214659?v=4" width=115><br><sub>Amaury Antônio de Castro Junior</sub>](https://github.com/paolacampossilva) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/74214659?v=4" width=115><br><sub>Amaury Antônio de Castro Junior</sub>](https://github.com/amaury-junior) |
 | :---: |
 
 # Autora
