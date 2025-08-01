@@ -1,0 +1,6 @@
+codigo_peca_1, quantidade_pecas_1, valor_peca_1 = input().split(" ")
+codigo_peca_2, quantidade_pecas_2, valor_peca_2 = input().split(" ")
+codigo_peca_1 = int(codigo_peca_1)
+codigo_peca_2 = int(codigo_peca_2)
+valor_total = (int(quantidade_pecas_1) * float(valor_peca_1)) + (int(quantidade_pecas_2) * float(valor_peca_2))
+print(f"VALOR A PAGAR: R$ {valor_total:.2f}")
