@@ -2,6 +2,7 @@
 
 # Descrição
 Esse é um repositório que reúne todos os exercícios realizados na disciplina de Algoritmos e Programação I, componente curricular do 1º período do curso de Ciência da Computação na Universidade Federal de Mato Grosso do Sul.
+
 Esses exercícios estão todos disponíveis no [beecrowd](https://judge.beecrowd.com/pt), uma plataforma cuja principal funcionalidade é a disponibilidade de problemas de código em diversas categorias elencadas por temas, nível de dificuldade, competições, etc que podem ser resolvidas numa gama enorme de linguagens de programação.
 
 ![completo badge](https://img.shields.io/badge/status-completo-darkgreen) ![linguagem badge](https://img.shields.io/badge/linguagem%20usada-Python-orange)
